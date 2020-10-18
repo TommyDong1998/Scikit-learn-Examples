@@ -1,8 +1,8 @@
 # Scikit-learn-Examples
 
-##Examples of scikit-learn techniques
+## Examples of scikit-learn techniques
 
-###Linear Regression
+### Linear Regression
 
 Looking at a single feature(blood pressure and diabetes)
 [Notebook](https://github.com/TommyDong1998/Scikit-learn-Examples/blob/main/Linear_Regression.ipynb)
