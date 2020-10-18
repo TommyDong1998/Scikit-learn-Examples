@@ -3,6 +3,7 @@
 Examples of scikit-learn techniques
 
 Linear Regression
+[Notebook](https://github.com/TommyDong1998/Scikit-learn-Examples/blob/main/Linear_Regression.ipynb)
 Gradient Descent
 Polynomial Regression
 Logistic Regression
