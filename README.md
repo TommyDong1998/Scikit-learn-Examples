@@ -7,6 +7,10 @@
 Looking at a single feature(blood pressure and diabetes)
 [Notebook](https://github.com/TommyDong1998/Scikit-learn-Examples/blob/main/Linear_Regression.ipynb)
 
+Looking at a multiple feature(diabetes dataset)
+[Notebook](https://github.com/TommyDong1998/Scikit-learn-Examples/blob/main/Linear_Regression(Multi).ipynb)
+
+
 Gradient Descent
 
 Polynomial Regression
