@@ -13,9 +13,11 @@ Looking at a multiple feature(diabetes dataset)
 
 Gradient Descent
 
-Polynomial Regression
+### Polynomial Regression
+
 Using polynomial regression(diabetes dataset)
 [Notebook](https://github.com/TommyDong1998/Scikit-learn-Examples/blob/main/Polynomial_Regression.ipynb)
+
 ### Logistic Regression
 
 Looking at a multiple features(malignant or benign breast cancer)
