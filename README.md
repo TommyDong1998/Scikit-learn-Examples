@@ -12,6 +12,7 @@ Looking at a multiple feature(diabetes dataset)
 
 
 Gradient Descent
+[Notebook](https://github.com/TommyDong1998/Scikit-learn-Examples/blob/main/GradientDescent.ipynb)
 
 ### Polynomial Regression
 
